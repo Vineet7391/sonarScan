@@ -13,6 +13,8 @@
     <properties>
         <scalaVersion>2.12</scalaVersion>
         <sbtVersion>1.0</sbtVersion>
+        <info.versionScheme>early-semver</info.versionScheme>
+        <extraDependencyAttributes xml:space="preserve">+e:sbtVersion:#@#:+1.0:#@#:+module:#@#:+sonarScan:#@#:+e:scalaVersion:#@#:+2.12:#@#:+organisation:#@#:+com.sonar:#@#:+branch:#@#:+@#:NULL:#@:#@#:+revision:#@#:+0.1.0:#@#:</extraDependencyAttributes>
     </properties>
     <dependencies>
         <dependency>
@@ -26,5 +28,18 @@
             <version>1.8.2</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.sonar</groupId>
+            <artifactId>sonarScan</artifactId>
+            <version>0.1.0</version>
+        </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>GitHub Packages</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/Vineet7391/sonarScan/</url>
+            <layout>default</layout>
+        </repository>
+    </repositories>
 </project>

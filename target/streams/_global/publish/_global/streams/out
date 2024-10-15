@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0.pom[0m
+[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0-sources.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to https://maven.pkg.github.com/Vineet7391/sonarScan/com/sonar/sonarscan_2.12_1.0/0.1.0/sonarscan-0.1.0-javadoc.jar[0m
