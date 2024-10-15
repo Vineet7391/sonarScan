@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\sonarscan-0.1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\sonar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\com\sonar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\sonar\HelloText$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\com\sonar\HelloText$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com\sonar\HelloText.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\com\sonar\HelloText.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt\sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\classes\sbt\sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

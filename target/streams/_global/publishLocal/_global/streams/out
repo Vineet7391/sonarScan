@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: com.sonar#sonarscan;0.1.0 :: 0.1.0 :: release :: Tue Oct 15 11:56:08 IST 2024[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Tue Oct 15 11:56:08 IST 2024 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to C:\Users\vineet.chauhan\ScalaPro\sonarScan\target\scala-2.12\sbt-1.0\ivy-0.1.0.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (49ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to C:\Users\vineet.chauhan\.ivy2\local\com.sonar\sonarscan\scala_2.12\sbt_1.0\0.1.0\poms\sonarscan.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to C:\Users\vineet.chauhan\.ivy2\local\com.sonar\sonarscan\scala_2.12\sbt_1.0\0.1.0\jars\sonarscan.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to C:\Users\vineet.chauhan\.ivy2\local\com.sonar\sonarscan\scala_2.12\sbt_1.0\0.1.0\srcs\sonarscan-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published sonarscan to C:\Users\vineet.chauhan\.ivy2\local\com.sonar\sonarscan\scala_2.12\sbt_1.0\0.1.0\docs\sonarscan-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to C:\Users\vineet.chauhan\.ivy2\local\com.sonar\sonarscan\scala_2.12\sbt_1.0\0.1.0\ivys\ivy.xml[0m
