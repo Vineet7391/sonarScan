@@ -25,6 +25,7 @@
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.google.errorprone:error_prone_annotations:2.4.0:jar" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.jcraft:jsch:0.1.54:jar" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.lmax:disruptor:3.4.2:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.sonar:sonarScan:0.1.0:jar" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.swoval:file-tree-views:2.1.9:jar" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.typesafe:config:1.4.2:jar" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="sbt: com.typesafe:ssl-config-core_2.12:0.6.1:jar" level="project" />
